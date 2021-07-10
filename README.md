@@ -1,8 +1,8 @@
-## What it Does :
+## What it Does ??
 
 ### Plays YouTube videos in your VLC with just one Keystroke (actually 2 keystrokes 😅)
 
-## **Coded in Python**
+### **Coded in Python**
 
 ### Libraries Used 🛠  
 
@@ -18,11 +18,11 @@
 
 - Run YT_VLC.exe (Or you can also run the source code script in your editor)
 
-- If everything runs good, a Notification will show up with `I am Running in Background` text
+- If everything runs good, a Notification will show up with `I am Running in Background ✔️` text
 
 - You just need to add "-play-in-vlc" to your YouTube URL and copy it and you are done ✔️ 
 
-- It automatically opens VLC and plays your video.
+- Sit back and relax. It automatically opens VLC and plays your video.
 
 - To close the application, go to system tray icon --> Right click the vlc icon (the vlc icon may not show up due to some errors but atleast default script icon will be showed) --> Click on "quit"
 
@@ -66,9 +66,9 @@
 
 - For any clarification on code or any errors, you can contact me any time. Ping me at mohithguptak@gmail.com - I'll reach you back in short.
 
-Inspired from [Asish Raju](https://github.com/AsishRaju/Youtube-x-VLC-x-Pyhton). 
+Inspired from [Asish Raju](https://github.com/AsishRaju). 
 
-[Clipboard] : <https://pypi.org/project/clipboard/>
+[Clipboard]: <https://pypi.org/project/clipboard/>
 
 [Win10toast]: <https:/github.comjithurjacobWindows-10-Toast-Notifications>
 
