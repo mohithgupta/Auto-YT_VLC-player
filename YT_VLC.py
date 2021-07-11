@@ -19,8 +19,8 @@ def run_step2():
     
     link=clipboard.paste()
     
-    if( ( link.find("https://www.youtube.com/watch?v=")==0 or link.find("https://www.youtube.com/playlist?list=")==0 ) and "-play-in-vlc" in link):
-        link=link[:-12]
+    if( ( link.find("https://www.youtube.com/watch?v=")==0 or link.find("https://www.youtube.com/playlist?list=")==0 ) and "-vlc" in link):
+        link=link[:-4]
         command = ("vlc " + clipboard.paste())  # text will have the content of clipboard
         os.system('cd /d C:\\Program Files\\VideoLAN\\VLC')
         os.system(command)

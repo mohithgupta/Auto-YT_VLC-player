@@ -1,6 +1,6 @@
 ## What it Does ??
 
-### Plays YouTube videos in your VLC with just one Keystroke (actually 2 keystrokes 😅)
+### Plays YouTube videos in your VLC with just few clicks
 
 ### **Coded in Python**
 
@@ -20,7 +20,7 @@
 
 - If everything runs good, a Notification will show up with `I am Running in Background ✔️` text
 
-- You just need to add "-play-in-vlc" to your YouTube URL and copy it and you are done ✔️ 
+- You just need to add "-vlc" to your YouTube URL and copy it and you are done ✔️ 
 
 - Sit back and relax. It automatically opens VLC and plays your video.
 
@@ -38,7 +38,7 @@
     - Current active window? - active window can be chrome or microsoft edge
     - Incorrect URL? - should be a youtube video 
     - Youtube Streamable Link ? - should be a youtube video
-    - Explicit input of `-play-in-vlc`? - link should have "-play-in-vlc" at the end
+    - Explicit input of `-vlc`? - link should have "-vlc" at the end
 
 - Script then executes a command line tool provided by VLC which allows VLC to stream videos. It auto copy-pastes with required commands and plays the video.
  
@@ -53,7 +53,7 @@
 
 (With just few lines of code and hours of research ofcourse....)
 
-- `Go to YouTube --> Add "-play-in-vlc" to URL and copy it --> Run the YT_VLC.exe file` (or you can first run the exe, then copy url)
+- `Go to YouTube --> Add "-vlc" to URL and copy it --> Run the YT_VLC.exe file` (or you can first run the exe, then copy url)
 
 - That's it!!! you can watch it already...
 
@@ -66,7 +66,7 @@
 
 - For any clarification on code or any errors, you can contact me any time. Ping me at mohithguptak@gmail.com - I'll reach you back in short.
 
-Inspired from [Asish Raju](https://github.com/AsishRaju). 
+Received help from [Asish Raju](https://github.com/AsishRaju) to deal with some errors.
 
 [Clipboard]: <https://pypi.org/project/clipboard/>
 
