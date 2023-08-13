@@ -66,7 +66,7 @@
 
 - For any clarification on code or any errors, you can contact me any time. Ping me at mohithguptak@gmail.com - I'll reach you back in short.
 
-Received help from [Asish Raju](https://github.com/AsishRaju) to deal with some errors.
+Received inspiration from [Asish Raju](https://github.com/AsishRaju) and also some help to deal with some errors.
 
 [Clipboard]: <https://pypi.org/project/clipboard/>
 
